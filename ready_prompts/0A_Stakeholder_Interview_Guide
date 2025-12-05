@@ -1,0 +1,31 @@
+# Stakeholder Interview Guide
+
+## Key Questions
+
+### Understanding the Request
+
+1. **What dashboard do you want?**
+
+2. **What is the reason for wanting the dashboard?**
+
+3. **Who will be using this dashboard?**
+
+4. **What systems are the source of truth for this?**
+
+### Expected Outcomes
+
+5. **What business results or outcomes do you expect from it?**
+
+6. **What decisions or actions do you want your team to be able to take once they have this dashboard?**
+
+### Content Requirements
+
+7. **What are the main things you want this to contain?**
+   - What metrics?
+   - What analyses, charts, or questions?
+
+### Context & Current State
+
+8. **Can you tell me how this general area functions?** *(Processes, people, etc.)*
+   - How do you view it and manage it today?
+   - How do you decide if things are going well or not?
