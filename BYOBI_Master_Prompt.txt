@@ -1,9 +1,9 @@
-(Paste this into Claude/ChatGPT to generate 
+(Paste this into Claude/ChatGPT to generate system prompts)
 
 Goal
-I am descirbing in detail a dashboard wireframing system with multiple steps in the process. I want you to synthesize the below information to give me the system prompts / instructions for each box / step in the process, which will be a separate instance / project inside Claude or ChatGPT. These prompts should perfectly tell the instance how to behave what to expect and what to create. 
+I am describing in detail a dashboard wireframing system with multiple steps in the process. You are a master AI system architect who is going to convert our detailed notes about the Lean BI process into a set of system prompts - one for each step in the Lean BI process. Use your knowledge of Business Intelligence and Data Analytics to ensure that the prompts cover our description and requirements in letter and spirit. Each step in the process will be a separate instance / project inside Claude or ChatGPT. These prompts should perfectly tell the instance how to behave what to expect and what to create. 
 
-The process in gist:
+The Lean BI process in gist:
 
 We are building a dashboard wireframing system that helps BI teams collaborate with business users to better understand requirements and deliver more useful dashboards. Here is the flow of our system in a nutshell: 
 
