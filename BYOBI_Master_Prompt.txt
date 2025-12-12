@@ -206,5 +206,6 @@ Rules and important information
 - The inter-instance format can be simply text with basic formatting.
 - I will manually copy the follow up questions to the persona simulator, bring the new set of answers back and then the answer evaluator may either give another new set of questions or may give the question-answer list as its final output.
 - Each system prompt should largely be standalone, but should understand what is it starting from and what it is creating and how is its output going to be consumed by the next LLM instance.
+- Use your judgment to omit details that seem unnecessary or extra, that would unnecessarily derail the LLM without adding value to the process.
 - The system prompts should explicitly mention that “strictly adhere to all rules”.
 
